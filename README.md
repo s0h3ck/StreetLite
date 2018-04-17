@@ -29,37 +29,32 @@ Logiciel utilisé : Vim
 Amusez-vous bien :)
 
 <h1 id="preview">Preview / Aperçu</h1>
-<img src="/preview/streelite.png" alt="Prototype - StreetLite">
+<img src="/preview/streetlite.png" alt="Prototype - StreetLite">
 
 Please note that if you want more information about the project, you can contact me. ;)
 
-<h1>Can I try? :D</h1>
+<h2>Pssst... can I try? :D</h2>
 <p>Of course!</p>
 
-<h2>Prerequisites</h2>
-```text
+<h3>Prerequisites</h3>
+<pre>
 python -m venv venv
-
 source venv/bin/activate
 
 pip install cython==0.25.2
-
 pip install -r requirements.txt
+</pre>
 
-garden install mapview
-```
-
-<h2>Additional steps for Windows</h2>
-```text
+<h3>Additional steps for Windows</h3>
+<pre>
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
-
 python -m pip install kivy.deps.gstreamer
-```
+</pre>
 
-<h2>How to use it?</h2>
-```
+<h3>How to use it?</h3>
+<pre>
 python main.py
-```
+</pre>
 
 You can change the value of the debug mode in the configuration file. Kivy has its own configuration file installed by default. See [Kivy Config API] (https://kivy.org/docs/api-kivy.config.html) for more details.
 
