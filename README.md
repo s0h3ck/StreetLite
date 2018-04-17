@@ -36,27 +36,22 @@ Please note that if you want more information about the project, you can contact
 <h2>Pssst... can I try? :D</h2>
 <p>Of course!</p>
 
-<h2>Prerequisites</h2>
+<h3>Prerequisites</h3>
 <pre>
 python -m venv venv
-
 source venv/bin/activate
 
 pip install cython==0.25.2
-
 pip install -r requirements.txt
-
-garden install mapview
 </pre>
 
-<h2>Additional steps for Windows</h2>
+<h3>Additional steps for Windows</h3>
 <pre>
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
-
 python -m pip install kivy.deps.gstreamer
 </pre>
 
-<h2>How to use it?</h2>
+<h3>How to use it?</h3>
 <pre>
 python main.py
 </pre>
