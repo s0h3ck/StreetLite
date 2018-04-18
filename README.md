@@ -38,12 +38,10 @@ Amusez-vous bien :)
 <img src="/preview/streetlite.png" alt="Kivy App - StreetLite">
 🎞😜 <a href="https://youtu.be/X8oXd3CxgQA">StreetLite (App) - Video</a> 😜🎞 
 
-Please note that if you want more information about the project, you can contact me. ;)
-
-<h3>Pssst... can I try? :D</h3>
+<h2>Pssst... can I try? :D</h2>
 <p>Of course!</p>
 
-<h4>Prerequisites</h4>
+<h3>Prerequisites</h3>
 <pre>
 python -m venv venv
 source venv/bin/activate
@@ -52,13 +50,13 @@ pip install cython==0.25.2
 pip install -r requirements.txt
 </pre>
 
-<h4>Additional steps for Windows</h4>
+<h3>Additional steps for Windows</h3>
 <pre>
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
 python -m pip install kivy.deps.gstreamer
 </pre>
 
-<h4>How to use it?</h4>
+<h3>How to use it?</h4>
 <pre>
 python main.py
 </pre>
@@ -67,7 +65,9 @@ You can change the value of the debug mode in the configuration file. Kivy has i
 
 For instance, under Linux, the path could be `~/.kivy/config.ini`.
 
-<h3>License</h3>
+Please note that if you want more information about the project, you can contact me ;)
+
+<h2>License</h2>
 <pre>
 MIT License
 
