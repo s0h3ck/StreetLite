@@ -1,4 +1,4 @@
-﻿<h1>StreetLite Project - S5</h1>
+<h1>StreetLite Project - S5</h1>
 
 <p>Purpose: The project is to centrally manage traffic lights within a municipality. Management is done from an interface and change light cycles in real time without having to move (no need to call a technician to fix it ;p). The detection of cars on their arrival is made and is managed by the microcontroller. A button for the pedestrians is necessary to ensure their safety. A real-time system for emergency vehicles will be set up to speed up the response time in urgent situations.</p>
 
@@ -31,8 +31,9 @@ Amusez-vous bien :)
 <h1 id="preview">Preview / Aperçu</h1>
 <img src="/preview/prototype.png" alt="Prototype - StreetLite">
 <img src="/preview/streetlite.png" alt="Kivy App - StreetLite">
-<a href="https://youtu.be/YMZedqIUagM">StreetLite - Video 😜🎞</a>
-
+  
+🎞😜 <a href="https://youtu.be/YMZedqIUagM">StreetLite - Video</a> 😜🎞 
+  
 Please note that if you want more information about the project, you can contact me. ;)
 
 <h2>Pssst... can I try? :D</h2>
