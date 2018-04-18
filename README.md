@@ -59,7 +59,7 @@ python -m pip install kivy.deps.gstreamer
 python main.py
 </pre>
 
-You can change the value of the debug mode in the configuration file. Kivy has its own configuration file installed by default. See [Kivy Config API] (https://kivy.org/docs/api-kivy.config.html) for more details.
+You can change the value of the debug mode in the configuration file. Kivy has its own configuration file installed by default. See <a href="https://kivy.org/docs/api-kivy.config.html">Kivy Config API</a> for more details.
 
 For instance, under Linux, the path could be `~/.kivy/config.ini`.
 
