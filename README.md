@@ -29,8 +29,9 @@ Logiciel utilisé : Vim
 Amusez-vous bien :)
 
 <h1 id="preview">Preview / Aperçu</h1>
-<img src="/preview/prototype.jpg" alt="Prototype - StreetLite">
+<img src="/preview/prototype.png" alt="Prototype - StreetLite">
 <img src="/preview/streetlite.png" alt="Kivy App - StreetLite">
+<a href="https://youtu.be/YMZedqIUagM">StreetLite - Video 😜🎞</a>
 
 Please note that if you want more information about the project, you can contact me. ;)
 
