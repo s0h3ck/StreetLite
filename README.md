@@ -1,6 +1,6 @@
 <h1>StreetLite Project - S5</h1>
 
-<p>Purpose: The project is to centrally manage traffic lights within a municipality. Management is done from an interface and change light cycles in real time without having to move (no need to call a technician to fix it ;p). The detection of cars on their arrival is made and is managed by the microcontroller. A button for the pedestrians is necessary to ensure their safety. A real-time system for emergency vehicles will be set up to speed up the response time in urgent situations.</p>
+<p>Purpose: the project is to centrally manage traffic lights within a municipality. Management is done from an interface and change light cycles in real time without having to move (no need to call a technician to fix it ;p). The detection of cars on their arrival is made and is managed by the microcontroller. A button for the pedestrians is necessary to ensure their safety. A real-time system for emergency vehicles will be set up to speed up the response time in urgent situations.</p>
 
 <pre>
 Language used : Python, C/C++
@@ -15,7 +15,7 @@ Enjoy :)
 
 <h1>Projet StreetLite - S5</h1>
 
-<p>But: le projet consiste à faire une gestion centralisée des feux de circulation à l’intérieur d’une municipalité. La gestion se fera à partir d’une interface et permettra de modifier les cycles des feux en temps réel sans avoir à se déplacer. La détection des automobiles à leur arriver au feu est faite et est gérer par le microcontrôleur. Un bouton pour les piétons est nécessaire dans le but d’assurer la sécurité de ces derniers. Un système en temps réel pour les véhicules d’urgence sera mis en place pour accélérer le temps de réponses lors de situation urgentes.</p>
+<p>But: le projet consiste à faire une gestion centralisée des feux de circulation à l’intérieur d’une municipalité. La gestion se fera à partir d’une interface et permettra de modifier les cycles des feux en temps réel sans avoir à se déplacer. La détection des automobiles à leur arriver au feu est faite et est gérée par le microcontrôleur. Un bouton pour les piétons est nécessaire dans le but d’assurer la sécurité de ces derniers. Un système en temps réel pour les véhicules d’urgence sera mis en place pour accélérer le temps de réponse lors de situations urgentes.</p>
 
 <pre>
  Langage utilisé : Python, C/C++
