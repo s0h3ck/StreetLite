@@ -28,22 +28,22 @@ Logiciel utilisé : Vim
 
 Amusez-vous bien :)
 
-<h1 id="preview">Preview / Aperçu</h1>
-<h2>Prototype</h2>
+<h2 id="preview">Preview / Aperçu</h2>
+
+<h3>Prototype</h3>
 <img src="/preview/prototype.png" alt="Prototype - StreetLite">
 🎞😜 <a href="https://youtu.be/YMZedqIUagM">StreetLite - Video</a> 😜🎞 
 
-<h2>Kivy Application</h2>
+<h3>Kivy Application</h3>
 <img src="/preview/streetlite.png" alt="Kivy App - StreetLite">
 🎞😜 <a href="https://youtu.be/X8oXd3CxgQA">StreetLite (App) - Video</a> 😜🎞 
 
-  
 Please note that if you want more information about the project, you can contact me. ;)
 
-<h2>Pssst... can I try? :D</h2>
+<h3>Pssst... can I try? :D</h3>
 <p>Of course!</p>
 
-<h3>Prerequisites</h3>
+<h4>Prerequisites</h4>
 <pre>
 python -m venv venv
 source venv/bin/activate
@@ -52,13 +52,13 @@ pip install cython==0.25.2
 pip install -r requirements.txt
 </pre>
 
-<h3>Additional steps for Windows</h3>
+<h4>Additional steps for Windows</h4>
 <pre>
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
 python -m pip install kivy.deps.gstreamer
 </pre>
 
-<h3>How to use it?</h3>
+<h4>How to use it?</h4>
 <pre>
 python main.py
 </pre>
