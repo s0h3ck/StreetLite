@@ -45,9 +45,13 @@ Amusez-vous bien :)
 <pre>
 python -m venv venv
 source venv/bin/activate
-
+</pre>
+<pre>
 pip install cython==0.25.2
 pip install -r requirements.txt
+</pre>
+<pre>
+garden install mapview
 </pre>
 
 <h3>Additional steps for Windows</h3>
