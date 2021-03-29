@@ -6,7 +6,7 @@ idna==2.6
 Kivy==1.10.0
 Kivy-Garden==0.1.4
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 requests==2.20.0
 git+https://github.com/dpallot/simple-websocket-server.git
 urllib3==1.25.3
